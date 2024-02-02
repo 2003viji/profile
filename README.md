@@ -19,7 +19,7 @@ compitative Programmer/ Web developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
 
 
-![Vijayalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=2003viji-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Vijayalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=2003viji&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/2003viji?ext=contest&theme=dark)](https://leetcode.com/2003viji)
 
