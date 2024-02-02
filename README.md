@@ -3,9 +3,9 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning Fullstack Web <br />
 - 👯 I’m looking to learn DSA <br />
-<!-- - 📫 How to reach me :
-[<img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=email&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
-<br /> -->
+- 📫 How to reach me :
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
+<br />
 - 😄 Pronouns: Developer
 
 ### I code in
@@ -13,7 +13,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/codechef-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2003viji&theme=dark&show_icons=true&&hide=issues,contribs)
