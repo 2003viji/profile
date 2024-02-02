@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Fullstack Web
 - 👯 I’m looking to learn DSA
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=email&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
-<br />
+<!-- [<img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=email&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
+<br /> -->
 - 😄 Pronouns: Developer
 
 ### I code in
