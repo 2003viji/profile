@@ -3,10 +3,12 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning Fullstack Web <br />
 - 👯 I’m looking to learn DSA <br />
-- 📫 How to reach me :
+<!-- - 📫 How to reach me :
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
 [<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
-<br />
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
+[<img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://www.linkedin.com/in/vijayalakshmi-k-395352214/)
+<br /> -->
 - 😄 Pronouns: Developer
 
 ### I code in
